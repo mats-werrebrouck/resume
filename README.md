@@ -22,7 +22,7 @@ Responsible for creating, automating, testing, and deploying of a custom command
 - Graduated with distinction
 <br><br>
 
-**Secundary school, Technical education** @ [Gulden](https://www.guldensporencollege.be/) _(Sept. 2015 - Jun. 2017)_ <br>
+**Secundary school, Technical education** @ [Guldensporencollege Kaai Kortrijk](https://www.guldensporencollege.be/) _(Sept. 2015 - Jun. 2017)_ <br>
 - IT management is a two year program. The emphasis is on software and hardware:
 - management of computer systems and networks;
     - developing software;
